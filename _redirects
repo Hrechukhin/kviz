@@ -1,0 +1,5 @@
+# Netlify redirects for SPA
+/*    /index.html   200
+
+# Vite/Express fallback for SPA
+# This file is not needed for Vite, but helps with deployment
